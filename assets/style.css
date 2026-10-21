@@ -1,0 +1,29 @@
+:root{--ink:#1d2327;--muted:#5b6670;--line:#e3e6e8;--accent:#bf5700;--accent-soft:#fbeee4;--bg:#ffffff;--card:#fafafa}
+@media (prefers-color-scheme:dark){:root{--ink:#e8eaec;--muted:#a7b0b7;--line:#2f3539;--accent:#f08a3e;--accent-soft:#3a2a1f;--bg:#15191c;--card:#1c2125}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+a{color:var(--accent)}
+header{border-bottom:1px solid var(--line)}
+.wrap{max-width:960px;margin:0 auto;padding:0 20px}
+.top{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px;padding:16px 0}
+.brand{font-weight:700;text-decoration:none;color:var(--ink);line-height:1.25}
+.brand small{display:block;font-weight:400;color:var(--muted);font-size:13px}
+nav a{margin-left:18px;text-decoration:none;color:var(--ink);font-size:15px}
+nav a.on,nav a:hover{color:var(--accent)}
+main{padding:36px 0 56px}
+h1{font-size:34px;line-height:1.2;margin:0 0 12px}
+h2{font-size:23px;margin:36px 0 10px}
+h3{font-size:18px;margin:0 0 6px}
+.lead{font-size:20px;color:var(--muted);max-width:760px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px;margin-top:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:18px}
+.card p{margin:6px 0 0;color:var(--muted);font-size:15.5px}
+.facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px;margin:18px 0}
+.fact{border:1.5px solid var(--accent);background:var(--accent-soft);border-radius:10px;padding:14px;text-align:center}
+.fact b{display:block;font-size:26px;color:var(--accent)}
+.note{border-left:4px solid var(--accent);background:var(--accent-soft);padding:10px 14px;border-radius:4px;margin:16px 0}
+table{border-collapse:collapse;width:100%;margin:12px 0;font-size:15.5px}
+th,td{border-bottom:1px solid var(--line);padding:8px 6px;text-align:left;vertical-align:top}
+.btn{display:inline-block;margin-top:10px;padding:7px 14px;border-radius:6px;background:var(--accent);color:#fff;text-decoration:none;font-size:15px}
+footer{border-top:1px solid var(--line);color:var(--muted);font-size:14px;padding:22px 0}
+@media (max-width:640px){nav a{margin:0 14px 0 0}h1{font-size:28px}}

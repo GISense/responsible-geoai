@@ -1,0 +1,1449 @@
+county,neighbor,touch
+Anderson,Cherokee,edge
+Anderson,Freestone,edge
+Anderson,Henderson,edge
+Anderson,Houston,edge
+Anderson,Leon,edge
+Andrews,Ector,edge
+Andrews,Gaines,edge
+Andrews,Martin,edge
+Andrews,Midland,edge
+Andrews,Winkler,edge
+Angelina,Cherokee,edge
+Angelina,Houston,edge
+Angelina,Jasper,edge
+Angelina,Nacogdoches,edge
+Angelina,Polk,edge
+Angelina,San Augustine,edge
+Angelina,Trinity,edge
+Angelina,Tyler,edge
+Aransas,Calhoun,edge
+Aransas,Nueces,edge
+Aransas,Refugio,edge
+Aransas,San Patricio,edge
+Archer,Baylor,edge
+Archer,Clay,edge
+Archer,Jack,edge
+Archer,Throckmorton,corner
+Archer,Wichita,edge
+Archer,Wilbarger,corner
+Archer,Young,edge
+Armstrong,Briscoe,edge
+Armstrong,Carson,edge
+Armstrong,Donley,edge
+Armstrong,Gray,corner
+Armstrong,Potter,corner
+Armstrong,Randall,edge
+Armstrong,Swisher,edge
+Atascosa,Bexar,edge
+Atascosa,Frio,edge
+Atascosa,Karnes,edge
+Atascosa,La Salle,corner
+Atascosa,Live Oak,edge
+Atascosa,McMullen,edge
+Atascosa,Medina,edge
+Atascosa,Wilson,edge
+Austin,Colorado,edge
+Austin,Fayette,edge
+Austin,Fort Bend,edge
+Austin,Waller,edge
+Austin,Washington,edge
+Austin,Wharton,edge
+Bailey,Cochran,edge
+Bailey,Hockley,corner
+Bailey,Lamb,edge
+Bailey,Parmer,edge
+Bandera,Bexar,edge
+Bandera,Kendall,edge
+Bandera,Kerr,edge
+Bandera,Medina,edge
+Bandera,Real,edge
+Bandera,Uvalde,edge
+Bastrop,Caldwell,edge
+Bastrop,Fayette,edge
+Bastrop,Lee,edge
+Bastrop,Travis,edge
+Bastrop,Williamson,edge
+Baylor,Archer,edge
+Baylor,Foard,edge
+Baylor,Haskell,corner
+Baylor,Knox,edge
+Baylor,Throckmorton,edge
+Baylor,Wichita,corner
+Baylor,Wilbarger,edge
+Baylor,Young,corner
+Bee,Goliad,edge
+Bee,Karnes,edge
+Bee,Live Oak,edge
+Bee,Refugio,edge
+Bee,San Patricio,edge
+Bell,Burnet,edge
+Bell,Coryell,edge
+Bell,Falls,edge
+Bell,Lampasas,edge
+Bell,McLennan,edge
+Bell,Milam,edge
+Bell,Williamson,edge
+Bexar,Atascosa,edge
+Bexar,Bandera,edge
+Bexar,Comal,edge
+Bexar,Guadalupe,edge
+Bexar,Kendall,edge
+Bexar,Medina,edge
+Bexar,Wilson,edge
+Blanco,Burnet,edge
+Blanco,Comal,edge
+Blanco,Gillespie,edge
+Blanco,Hays,edge
+Blanco,Kendall,edge
+Blanco,Llano,edge
+Blanco,Travis,edge
+Borden,Dawson,edge
+Borden,Garza,edge
+Borden,Howard,edge
+Borden,Lynn,edge
+Borden,Martin,corner
+Borden,Mitchell,edge
+Borden,Scurry,edge
+Bosque,Coryell,edge
+Bosque,Erath,edge
+Bosque,Hamilton,edge
+Bosque,Hill,edge
+Bosque,Johnson,edge
+Bosque,McLennan,edge
+Bosque,Somervell,edge
+Bowie,Cass,edge
+Bowie,Morris,edge
+Bowie,Red River,edge
+Brazoria,Fort Bend,edge
+Brazoria,Galveston,edge
+Brazoria,Harris,edge
+Brazoria,Matagorda,edge
+Brazoria,Wharton,edge
+Brazos,Burleson,edge
+Brazos,Grimes,edge
+Brazos,Leon,corner
+Brazos,Madison,edge
+Brazos,Robertson,edge
+Brazos,Washington,edge
+Brewster,Jeff Davis,edge
+Brewster,Pecos,edge
+Brewster,Presidio,edge
+Brewster,Terrell,edge
+Briscoe,Armstrong,edge
+Briscoe,Donley,edge
+Briscoe,Floyd,edge
+Briscoe,Hall,edge
+Briscoe,Motley,edge
+Briscoe,Swisher,edge
+Brooks,Duval,edge
+Brooks,Hidalgo,edge
+Brooks,Jim Hogg,edge
+Brooks,Jim Wells,edge
+Brooks,Kenedy,edge
+Brooks,Kleberg,edge
+Brooks,Starr,edge
+Brown,Callahan,edge
+Brown,Coleman,edge
+Brown,Comanche,edge
+Brown,Eastland,edge
+Brown,McCulloch,edge
+Brown,Mills,edge
+Brown,San Saba,edge
+Burleson,Brazos,edge
+Burleson,Lee,edge
+Burleson,Milam,edge
+Burleson,Robertson,edge
+Burleson,Washington,edge
+Burnet,Bell,edge
+Burnet,Blanco,edge
+Burnet,Lampasas,edge
+Burnet,Llano,edge
+Burnet,San Saba,edge
+Burnet,Travis,edge
+Burnet,Williamson,edge
+Caldwell,Bastrop,edge
+Caldwell,Fayette,edge
+Caldwell,Gonzales,edge
+Caldwell,Guadalupe,edge
+Caldwell,Hays,edge
+Caldwell,Travis,edge
+Calhoun,Aransas,edge
+Calhoun,Jackson,edge
+Calhoun,Matagorda,edge
+Calhoun,Refugio,edge
+Calhoun,Victoria,edge
+Callahan,Brown,edge
+Callahan,Coleman,edge
+Callahan,Eastland,edge
+Callahan,Jones,edge
+Callahan,Shackelford,edge
+Callahan,Taylor,edge
+Cameron,Hidalgo,edge
+Cameron,Willacy,edge
+Camp,Franklin,edge
+Camp,Morris,edge
+Camp,Titus,edge
+Camp,Upshur,edge
+Camp,Wood,edge
+Carson,Armstrong,edge
+Carson,Donley,corner
+Carson,Gray,edge
+Carson,Hutchinson,edge
+Carson,Moore,edge
+Carson,Potter,edge
+Carson,Randall,corner
+Carson,Roberts,edge
+Cass,Bowie,edge
+Cass,Marion,edge
+Cass,Morris,edge
+Castro,Deaf Smith,edge
+Castro,Hale,edge
+Castro,Lamb,edge
+Castro,Parmer,edge
+Castro,Randall,edge
+Castro,Swisher,edge
+Chambers,Galveston,edge
+Chambers,Harris,edge
+Chambers,Jefferson,edge
+Chambers,Liberty,edge
+Cherokee,Anderson,edge
+Cherokee,Angelina,edge
+Cherokee,Henderson,edge
+Cherokee,Houston,edge
+Cherokee,Nacogdoches,edge
+Cherokee,Rusk,edge
+Cherokee,Smith,edge
+Childress,Collingsworth,edge
+Childress,Cottle,edge
+Childress,Hall,edge
+Childress,Hardeman,edge
+Clay,Archer,edge
+Clay,Jack,edge
+Clay,Montague,edge
+Clay,Wichita,edge
+Cochran,Bailey,edge
+Cochran,Hockley,edge
+Cochran,Lamb,corner
+Cochran,Terry,corner
+Cochran,Yoakum,edge
+Coke,Mitchell,edge
+Coke,Nolan,edge
+Coke,Runnels,edge
+Coke,Sterling,edge
+Coke,Tom Green,edge
+Coleman,Brown,edge
+Coleman,Callahan,edge
+Coleman,Concho,edge
+Coleman,McCulloch,edge
+Coleman,Runnels,edge
+Coleman,Taylor,edge
+Collin,Dallas,edge
+Collin,Denton,edge
+Collin,Fannin,edge
+Collin,Grayson,edge
+Collin,Hunt,edge
+Collin,Rockwall,edge
+Collingsworth,Childress,edge
+Collingsworth,Donley,edge
+Collingsworth,Gray,corner
+Collingsworth,Hall,edge
+Collingsworth,Wheeler,edge
+Colorado,Austin,edge
+Colorado,Fayette,edge
+Colorado,Jackson,edge
+Colorado,Lavaca,edge
+Colorado,Wharton,edge
+Comal,Bexar,edge
+Comal,Blanco,edge
+Comal,Guadalupe,edge
+Comal,Hays,edge
+Comal,Kendall,edge
+Comanche,Brown,edge
+Comanche,Eastland,edge
+Comanche,Erath,edge
+Comanche,Hamilton,edge
+Comanche,Mills,edge
+Concho,Coleman,edge
+Concho,McCulloch,edge
+Concho,Menard,edge
+Concho,Runnels,edge
+Concho,Schleicher,corner
+Concho,Tom Green,edge
+Cooke,Denton,edge
+Cooke,Grayson,edge
+Cooke,Montague,edge
+Cooke,Wise,edge
+Coryell,Bell,edge
+Coryell,Bosque,edge
+Coryell,Hamilton,edge
+Coryell,Lampasas,edge
+Coryell,McLennan,edge
+Cottle,Childress,edge
+Cottle,Dickens,corner
+Cottle,Foard,edge
+Cottle,Hall,edge
+Cottle,Hardeman,edge
+Cottle,King,edge
+Cottle,Motley,edge
+Crane,Crockett,edge
+Crane,Ector,edge
+Crane,Pecos,edge
+Crane,Upton,edge
+Crane,Ward,edge
+Crockett,Crane,edge
+Crockett,Irion,edge
+Crockett,Pecos,edge
+Crockett,Reagan,edge
+Crockett,Schleicher,edge
+Crockett,Sutton,edge
+Crockett,Terrell,edge
+Crockett,Upton,edge
+Crockett,Val Verde,edge
+Crosby,Dickens,edge
+Crosby,Floyd,edge
+Crosby,Garza,edge
+Crosby,Hale,corner
+Crosby,Kent,corner
+Crosby,Lubbock,edge
+Crosby,Lynn,corner
+Crosby,Motley,corner
+Culberson,Hudspeth,edge
+Culberson,Jeff Davis,edge
+Culberson,Reeves,edge
+Dallam,Hartley,edge
+Dallam,Moore,corner
+Dallam,Sherman,edge
+Dallas,Collin,edge
+Dallas,Denton,edge
+Dallas,Ellis,edge
+Dallas,Kaufman,edge
+Dallas,Rockwall,edge
+Dallas,Tarrant,edge
+Dawson,Borden,edge
+Dawson,Gaines,edge
+Dawson,Howard,corner
+Dawson,Lynn,edge
+Dawson,Martin,edge
+Dawson,Terry,edge
+DeWitt,Goliad,edge
+DeWitt,Gonzales,edge
+DeWitt,Karnes,edge
+DeWitt,Lavaca,edge
+DeWitt,Victoria,edge
+Deaf Smith,Castro,edge
+Deaf Smith,Oldham,edge
+Deaf Smith,Parmer,edge
+Deaf Smith,Potter,corner
+Deaf Smith,Randall,edge
+Delta,Fannin,edge
+Delta,Franklin,edge
+Delta,Hopkins,edge
+Delta,Hunt,edge
+Delta,Lamar,edge
+Delta,Red River,edge
+Denton,Collin,edge
+Denton,Cooke,edge
+Denton,Dallas,edge
+Denton,Grayson,edge
+Denton,Tarrant,edge
+Denton,Wise,edge
+Dickens,Cottle,corner
+Dickens,Crosby,edge
+Dickens,Floyd,corner
+Dickens,Garza,corner
+Dickens,Kent,edge
+Dickens,King,edge
+Dickens,Motley,edge
+Dickens,Stonewall,corner
+Dimmit,Frio,corner
+Dimmit,La Salle,edge
+Dimmit,Maverick,edge
+Dimmit,Webb,edge
+Dimmit,Zavala,edge
+Donley,Armstrong,edge
+Donley,Briscoe,edge
+Donley,Carson,corner
+Donley,Collingsworth,edge
+Donley,Gray,edge
+Donley,Hall,edge
+Donley,Wheeler,corner
+Duval,Brooks,edge
+Duval,Jim Hogg,edge
+Duval,Jim Wells,edge
+Duval,La Salle,corner
+Duval,Live Oak,edge
+Duval,McMullen,edge
+Duval,Webb,edge
+Eastland,Brown,edge
+Eastland,Callahan,edge
+Eastland,Comanche,edge
+Eastland,Erath,edge
+Eastland,Palo Pinto,edge
+Eastland,Shackelford,edge
+Eastland,Stephens,edge
+Ector,Andrews,edge
+Ector,Crane,edge
+Ector,Midland,edge
+Ector,Upton,edge
+Ector,Ward,edge
+Ector,Winkler,edge
+Edwards,Kerr,edge
+Edwards,Kimble,edge
+Edwards,Kinney,edge
+Edwards,Real,edge
+Edwards,Sutton,edge
+Edwards,Uvalde,edge
+Edwards,Val Verde,edge
+El Paso,Hudspeth,edge
+Ellis,Dallas,edge
+Ellis,Henderson,edge
+Ellis,Hill,edge
+Ellis,Johnson,edge
+Ellis,Kaufman,edge
+Ellis,Navarro,edge
+Ellis,Tarrant,edge
+Erath,Bosque,edge
+Erath,Comanche,edge
+Erath,Eastland,edge
+Erath,Hamilton,edge
+Erath,Hood,edge
+Erath,Palo Pinto,edge
+Erath,Somervell,edge
+Falls,Bell,edge
+Falls,Limestone,edge
+Falls,McLennan,edge
+Falls,Milam,edge
+Falls,Robertson,edge
+Fannin,Collin,edge
+Fannin,Delta,edge
+Fannin,Grayson,edge
+Fannin,Hunt,edge
+Fannin,Lamar,edge
+Fayette,Austin,edge
+Fayette,Bastrop,edge
+Fayette,Caldwell,edge
+Fayette,Colorado,edge
+Fayette,Gonzales,edge
+Fayette,Lavaca,edge
+Fayette,Lee,edge
+Fayette,Washington,edge
+Fisher,Jones,edge
+Fisher,Kent,edge
+Fisher,Mitchell,corner
+Fisher,Nolan,edge
+Fisher,Scurry,edge
+Fisher,Stonewall,edge
+Fisher,Taylor,corner
+Floyd,Briscoe,edge
+Floyd,Crosby,edge
+Floyd,Dickens,corner
+Floyd,Hale,edge
+Floyd,Lubbock,corner
+Floyd,Motley,edge
+Floyd,Swisher,edge
+Foard,Baylor,edge
+Foard,Cottle,edge
+Foard,Hardeman,edge
+Foard,King,edge
+Foard,Knox,edge
+Foard,Wilbarger,edge
+Fort Bend,Austin,edge
+Fort Bend,Brazoria,edge
+Fort Bend,Harris,edge
+Fort Bend,Waller,edge
+Fort Bend,Wharton,edge
+Franklin,Camp,edge
+Franklin,Delta,edge
+Franklin,Hopkins,edge
+Franklin,Red River,edge
+Franklin,Titus,edge
+Franklin,Wood,edge
+Freestone,Anderson,edge
+Freestone,Henderson,edge
+Freestone,Leon,edge
+Freestone,Limestone,edge
+Freestone,Navarro,edge
+Frio,Atascosa,edge
+Frio,Dimmit,corner
+Frio,La Salle,edge
+Frio,Medina,edge
+Frio,Uvalde,corner
+Frio,Zavala,edge
+Gaines,Andrews,edge
+Gaines,Dawson,edge
+Gaines,Martin,edge
+Gaines,Terry,edge
+Gaines,Yoakum,edge
+Galveston,Brazoria,edge
+Galveston,Chambers,edge
+Galveston,Harris,edge
+Garza,Borden,edge
+Garza,Crosby,edge
+Garza,Dickens,corner
+Garza,Kent,edge
+Garza,Lubbock,corner
+Garza,Lynn,edge
+Garza,Scurry,edge
+Gillespie,Blanco,edge
+Gillespie,Kendall,edge
+Gillespie,Kerr,edge
+Gillespie,Kimble,edge
+Gillespie,Llano,edge
+Gillespie,Mason,edge
+Glasscock,Howard,edge
+Glasscock,Martin,edge
+Glasscock,Midland,edge
+Glasscock,Reagan,edge
+Glasscock,Sterling,edge
+Glasscock,Upton,corner
+Goliad,Bee,edge
+Goliad,DeWitt,edge
+Goliad,Karnes,edge
+Goliad,Refugio,edge
+Goliad,Victoria,edge
+Gonzales,Caldwell,edge
+Gonzales,DeWitt,edge
+Gonzales,Fayette,edge
+Gonzales,Guadalupe,edge
+Gonzales,Karnes,edge
+Gonzales,Lavaca,edge
+Gonzales,Wilson,edge
+Gray,Armstrong,corner
+Gray,Carson,edge
+Gray,Collingsworth,corner
+Gray,Donley,edge
+Gray,Hemphill,corner
+Gray,Roberts,edge
+Gray,Wheeler,edge
+Grayson,Collin,edge
+Grayson,Cooke,edge
+Grayson,Denton,edge
+Grayson,Fannin,edge
+Gregg,Harrison,edge
+Gregg,Rusk,edge
+Gregg,Smith,edge
+Gregg,Upshur,edge
+Grimes,Brazos,edge
+Grimes,Madison,edge
+Grimes,Montgomery,edge
+Grimes,Walker,edge
+Grimes,Waller,edge
+Grimes,Washington,edge
+Guadalupe,Bexar,edge
+Guadalupe,Caldwell,edge
+Guadalupe,Comal,edge
+Guadalupe,Gonzales,edge
+Guadalupe,Hays,edge
+Guadalupe,Wilson,edge
+Hale,Castro,edge
+Hale,Crosby,corner
+Hale,Floyd,edge
+Hale,Hockley,corner
+Hale,Lamb,edge
+Hale,Lubbock,edge
+Hale,Swisher,edge
+Hall,Briscoe,edge
+Hall,Childress,edge
+Hall,Collingsworth,edge
+Hall,Cottle,edge
+Hall,Donley,edge
+Hall,Motley,edge
+Hamilton,Bosque,edge
+Hamilton,Comanche,edge
+Hamilton,Coryell,edge
+Hamilton,Erath,edge
+Hamilton,Lampasas,edge
+Hamilton,Mills,edge
+Hansford,Hutchinson,edge
+Hansford,Moore,corner
+Hansford,Ochiltree,edge
+Hansford,Roberts,corner
+Hansford,Sherman,edge
+Hardeman,Childress,edge
+Hardeman,Cottle,edge
+Hardeman,Foard,edge
+Hardeman,Wilbarger,edge
+Hardin,Jasper,edge
+Hardin,Jefferson,edge
+Hardin,Liberty,edge
+Hardin,Orange,edge
+Hardin,Polk,edge
+Hardin,Tyler,edge
+Harris,Brazoria,edge
+Harris,Chambers,edge
+Harris,Fort Bend,edge
+Harris,Galveston,edge
+Harris,Liberty,edge
+Harris,Montgomery,edge
+Harris,Waller,edge
+Harrison,Gregg,edge
+Harrison,Marion,edge
+Harrison,Panola,edge
+Harrison,Rusk,edge
+Harrison,Upshur,edge
+Hartley,Dallam,edge
+Hartley,Moore,edge
+Hartley,Oldham,edge
+Hartley,Sherman,corner
+Haskell,Baylor,corner
+Haskell,Jones,edge
+Haskell,King,corner
+Haskell,Knox,edge
+Haskell,Shackelford,edge
+Haskell,Stonewall,edge
+Haskell,Throckmorton,edge
+Hays,Blanco,edge
+Hays,Caldwell,edge
+Hays,Comal,edge
+Hays,Guadalupe,edge
+Hays,Travis,edge
+Hemphill,Gray,corner
+Hemphill,Lipscomb,edge
+Hemphill,Roberts,edge
+Hemphill,Wheeler,edge
+Henderson,Anderson,edge
+Henderson,Cherokee,edge
+Henderson,Ellis,edge
+Henderson,Freestone,edge
+Henderson,Kaufman,edge
+Henderson,Navarro,edge
+Henderson,Smith,edge
+Henderson,Van Zandt,edge
+Hidalgo,Brooks,edge
+Hidalgo,Cameron,edge
+Hidalgo,Kenedy,edge
+Hidalgo,Starr,edge
+Hidalgo,Willacy,edge
+Hill,Bosque,edge
+Hill,Ellis,edge
+Hill,Johnson,edge
+Hill,Limestone,edge
+Hill,McLennan,edge
+Hill,Navarro,edge
+Hockley,Bailey,corner
+Hockley,Cochran,edge
+Hockley,Hale,corner
+Hockley,Lamb,edge
+Hockley,Lubbock,edge
+Hockley,Lynn,corner
+Hockley,Terry,edge
+Hockley,Yoakum,corner
+Hood,Erath,edge
+Hood,Johnson,edge
+Hood,Palo Pinto,edge
+Hood,Parker,edge
+Hood,Somervell,edge
+Hopkins,Delta,edge
+Hopkins,Franklin,edge
+Hopkins,Hunt,edge
+Hopkins,Rains,edge
+Hopkins,Wood,edge
+Houston,Anderson,edge
+Houston,Angelina,edge
+Houston,Cherokee,edge
+Houston,Leon,edge
+Houston,Madison,edge
+Houston,Trinity,edge
+Houston,Walker,edge
+Howard,Borden,edge
+Howard,Dawson,corner
+Howard,Glasscock,edge
+Howard,Martin,edge
+Howard,Mitchell,edge
+Howard,Sterling,edge
+Hudspeth,Culberson,edge
+Hudspeth,El Paso,edge
+Hudspeth,Jeff Davis,edge
+Hudspeth,Presidio,corner
+Hunt,Collin,edge
+Hunt,Delta,edge
+Hunt,Fannin,edge
+Hunt,Hopkins,edge
+Hunt,Kaufman,edge
+Hunt,Rains,edge
+Hunt,Rockwall,edge
+Hunt,Van Zandt,edge
+Hutchinson,Carson,edge
+Hutchinson,Hansford,edge
+Hutchinson,Moore,edge
+Hutchinson,Roberts,edge
+Hutchinson,Sherman,corner
+Irion,Crockett,edge
+Irion,Reagan,edge
+Irion,Schleicher,edge
+Irion,Tom Green,edge
+Jack,Archer,edge
+Jack,Clay,edge
+Jack,Montague,edge
+Jack,Palo Pinto,edge
+Jack,Parker,edge
+Jack,Wise,edge
+Jack,Young,edge
+Jackson,Calhoun,edge
+Jackson,Colorado,edge
+Jackson,Lavaca,edge
+Jackson,Matagorda,edge
+Jackson,Victoria,edge
+Jackson,Wharton,edge
+Jasper,Angelina,edge
+Jasper,Hardin,edge
+Jasper,Newton,edge
+Jasper,Orange,edge
+Jasper,Sabine,edge
+Jasper,San Augustine,edge
+Jasper,Tyler,edge
+Jeff Davis,Brewster,edge
+Jeff Davis,Culberson,edge
+Jeff Davis,Hudspeth,edge
+Jeff Davis,Pecos,edge
+Jeff Davis,Presidio,edge
+Jeff Davis,Reeves,edge
+Jefferson,Chambers,edge
+Jefferson,Hardin,edge
+Jefferson,Liberty,edge
+Jefferson,Orange,edge
+Jim Hogg,Brooks,edge
+Jim Hogg,Duval,edge
+Jim Hogg,Starr,edge
+Jim Hogg,Webb,edge
+Jim Hogg,Zapata,edge
+Jim Wells,Brooks,edge
+Jim Wells,Duval,edge
+Jim Wells,Kleberg,edge
+Jim Wells,Live Oak,edge
+Jim Wells,Nueces,edge
+Jim Wells,San Patricio,edge
+Johnson,Bosque,edge
+Johnson,Ellis,edge
+Johnson,Hill,edge
+Johnson,Hood,edge
+Johnson,Parker,edge
+Johnson,Somervell,edge
+Johnson,Tarrant,edge
+Jones,Callahan,edge
+Jones,Fisher,edge
+Jones,Haskell,edge
+Jones,Nolan,corner
+Jones,Shackelford,edge
+Jones,Stonewall,edge
+Jones,Taylor,edge
+Karnes,Atascosa,edge
+Karnes,Bee,edge
+Karnes,DeWitt,edge
+Karnes,Goliad,edge
+Karnes,Gonzales,edge
+Karnes,Live Oak,edge
+Karnes,Wilson,edge
+Kaufman,Dallas,edge
+Kaufman,Ellis,edge
+Kaufman,Henderson,edge
+Kaufman,Hunt,edge
+Kaufman,Rockwall,edge
+Kaufman,Van Zandt,edge
+Kendall,Bandera,edge
+Kendall,Bexar,edge
+Kendall,Blanco,edge
+Kendall,Comal,edge
+Kendall,Gillespie,edge
+Kendall,Kerr,edge
+Kenedy,Brooks,edge
+Kenedy,Hidalgo,edge
+Kenedy,Kleberg,edge
+Kenedy,Willacy,edge
+Kent,Crosby,corner
+Kent,Dickens,edge
+Kent,Fisher,edge
+Kent,Garza,edge
+Kent,King,corner
+Kent,Scurry,edge
+Kent,Stonewall,edge
+Kerr,Bandera,edge
+Kerr,Edwards,edge
+Kerr,Gillespie,edge
+Kerr,Kendall,edge
+Kerr,Kimble,edge
+Kerr,Real,edge
+Kimble,Edwards,edge
+Kimble,Gillespie,edge
+Kimble,Kerr,edge
+Kimble,Mason,edge
+Kimble,Menard,edge
+Kimble,Schleicher,corner
+Kimble,Sutton,edge
+King,Cottle,edge
+King,Dickens,edge
+King,Foard,edge
+King,Haskell,corner
+King,Kent,corner
+King,Knox,edge
+King,Motley,corner
+King,Stonewall,edge
+Kinney,Edwards,edge
+Kinney,Maverick,edge
+Kinney,Uvalde,edge
+Kinney,Val Verde,edge
+Kinney,Zavala,corner
+Kleberg,Brooks,edge
+Kleberg,Jim Wells,edge
+Kleberg,Kenedy,edge
+Kleberg,Nueces,edge
+Knox,Baylor,edge
+Knox,Foard,edge
+Knox,Haskell,edge
+Knox,King,edge
+Knox,Stonewall,corner
+Knox,Throckmorton,corner
+La Salle,Atascosa,corner
+La Salle,Dimmit,edge
+La Salle,Duval,corner
+La Salle,Frio,edge
+La Salle,McMullen,edge
+La Salle,Webb,edge
+Lamar,Delta,edge
+Lamar,Fannin,edge
+Lamar,Red River,edge
+Lamb,Bailey,edge
+Lamb,Castro,edge
+Lamb,Cochran,corner
+Lamb,Hale,edge
+Lamb,Hockley,edge
+Lamb,Lubbock,corner
+Lamb,Parmer,edge
+Lampasas,Bell,edge
+Lampasas,Burnet,edge
+Lampasas,Coryell,edge
+Lampasas,Hamilton,edge
+Lampasas,Mills,edge
+Lampasas,San Saba,edge
+Lavaca,Colorado,edge
+Lavaca,DeWitt,edge
+Lavaca,Fayette,edge
+Lavaca,Gonzales,edge
+Lavaca,Jackson,edge
+Lavaca,Victoria,edge
+Lee,Bastrop,edge
+Lee,Burleson,edge
+Lee,Fayette,edge
+Lee,Milam,edge
+Lee,Washington,edge
+Lee,Williamson,edge
+Leon,Anderson,edge
+Leon,Brazos,corner
+Leon,Freestone,edge
+Leon,Houston,edge
+Leon,Limestone,edge
+Leon,Madison,edge
+Leon,Robertson,edge
+Liberty,Chambers,edge
+Liberty,Hardin,edge
+Liberty,Harris,edge
+Liberty,Jefferson,edge
+Liberty,Montgomery,edge
+Liberty,Polk,edge
+Liberty,San Jacinto,edge
+Limestone,Falls,edge
+Limestone,Freestone,edge
+Limestone,Hill,edge
+Limestone,Leon,edge
+Limestone,McLennan,edge
+Limestone,Navarro,edge
+Limestone,Robertson,edge
+Lipscomb,Hemphill,edge
+Lipscomb,Ochiltree,edge
+Lipscomb,Roberts,edge
+Live Oak,Atascosa,edge
+Live Oak,Bee,edge
+Live Oak,Duval,edge
+Live Oak,Jim Wells,edge
+Live Oak,Karnes,edge
+Live Oak,McMullen,edge
+Live Oak,San Patricio,edge
+Llano,Blanco,edge
+Llano,Burnet,edge
+Llano,Gillespie,edge
+Llano,Mason,edge
+Llano,San Saba,edge
+Loving,Reeves,edge
+Loving,Ward,edge
+Loving,Winkler,edge
+Lubbock,Crosby,edge
+Lubbock,Floyd,corner
+Lubbock,Garza,corner
+Lubbock,Hale,edge
+Lubbock,Hockley,edge
+Lubbock,Lamb,corner
+Lubbock,Lynn,edge
+Lubbock,Terry,corner
+Lynn,Borden,edge
+Lynn,Crosby,corner
+Lynn,Dawson,edge
+Lynn,Garza,edge
+Lynn,Hockley,corner
+Lynn,Lubbock,edge
+Lynn,Terry,edge
+Madison,Brazos,edge
+Madison,Grimes,edge
+Madison,Houston,edge
+Madison,Leon,edge
+Madison,Robertson,corner
+Madison,Walker,edge
+Marion,Cass,edge
+Marion,Harrison,edge
+Marion,Morris,edge
+Marion,Upshur,edge
+Martin,Andrews,edge
+Martin,Borden,corner
+Martin,Dawson,edge
+Martin,Gaines,edge
+Martin,Glasscock,edge
+Martin,Howard,edge
+Martin,Midland,edge
+Mason,Gillespie,edge
+Mason,Kimble,edge
+Mason,Llano,edge
+Mason,McCulloch,edge
+Mason,Menard,edge
+Mason,San Saba,edge
+Matagorda,Brazoria,edge
+Matagorda,Calhoun,edge
+Matagorda,Jackson,edge
+Matagorda,Wharton,edge
+Maverick,Dimmit,edge
+Maverick,Kinney,edge
+Maverick,Uvalde,corner
+Maverick,Webb,edge
+Maverick,Zavala,edge
+McCulloch,Brown,edge
+McCulloch,Coleman,edge
+McCulloch,Concho,edge
+McCulloch,Mason,edge
+McCulloch,Menard,edge
+McCulloch,San Saba,edge
+McLennan,Bell,edge
+McLennan,Bosque,edge
+McLennan,Coryell,edge
+McLennan,Falls,edge
+McLennan,Hill,edge
+McLennan,Limestone,edge
+McMullen,Atascosa,edge
+McMullen,Duval,edge
+McMullen,La Salle,edge
+McMullen,Live Oak,edge
+McMullen,Webb,corner
+Medina,Atascosa,edge
+Medina,Bandera,edge
+Medina,Bexar,edge
+Medina,Frio,edge
+Medina,Uvalde,edge
+Medina,Zavala,corner
+Menard,Concho,edge
+Menard,Kimble,edge
+Menard,Mason,edge
+Menard,McCulloch,edge
+Menard,Schleicher,edge
+Menard,Sutton,corner
+Menard,Tom Green,corner
+Midland,Andrews,edge
+Midland,Ector,edge
+Midland,Glasscock,edge
+Midland,Martin,edge
+Midland,Reagan,corner
+Midland,Upton,edge
+Milam,Bell,edge
+Milam,Burleson,edge
+Milam,Falls,edge
+Milam,Lee,edge
+Milam,Robertson,edge
+Milam,Williamson,edge
+Mills,Brown,edge
+Mills,Comanche,edge
+Mills,Hamilton,edge
+Mills,Lampasas,edge
+Mills,San Saba,edge
+Mitchell,Borden,edge
+Mitchell,Coke,edge
+Mitchell,Fisher,corner
+Mitchell,Howard,edge
+Mitchell,Nolan,edge
+Mitchell,Scurry,edge
+Mitchell,Sterling,edge
+Montague,Clay,edge
+Montague,Cooke,edge
+Montague,Jack,edge
+Montague,Wise,edge
+Montgomery,Grimes,edge
+Montgomery,Harris,edge
+Montgomery,Liberty,edge
+Montgomery,San Jacinto,edge
+Montgomery,Walker,edge
+Montgomery,Waller,edge
+Moore,Carson,edge
+Moore,Dallam,corner
+Moore,Hansford,corner
+Moore,Hartley,edge
+Moore,Hutchinson,edge
+Moore,Oldham,edge
+Moore,Potter,edge
+Moore,Sherman,edge
+Morris,Bowie,edge
+Morris,Camp,edge
+Morris,Cass,edge
+Morris,Marion,edge
+Morris,Red River,edge
+Morris,Titus,edge
+Morris,Upshur,edge
+Motley,Briscoe,edge
+Motley,Cottle,edge
+Motley,Crosby,corner
+Motley,Dickens,edge
+Motley,Floyd,edge
+Motley,Hall,edge
+Motley,King,corner
+Nacogdoches,Angelina,edge
+Nacogdoches,Cherokee,edge
+Nacogdoches,Rusk,edge
+Nacogdoches,San Augustine,edge
+Nacogdoches,Shelby,edge
+Navarro,Ellis,edge
+Navarro,Freestone,edge
+Navarro,Henderson,edge
+Navarro,Hill,edge
+Navarro,Limestone,edge
+Newton,Jasper,edge
+Newton,Orange,edge
+Newton,Sabine,edge
+Nolan,Coke,edge
+Nolan,Fisher,edge
+Nolan,Jones,corner
+Nolan,Mitchell,edge
+Nolan,Runnels,edge
+Nolan,Scurry,corner
+Nolan,Taylor,edge
+Nueces,Aransas,edge
+Nueces,Jim Wells,edge
+Nueces,Kleberg,edge
+Nueces,San Patricio,edge
+Ochiltree,Hansford,edge
+Ochiltree,Lipscomb,edge
+Ochiltree,Roberts,edge
+Oldham,Deaf Smith,edge
+Oldham,Hartley,edge
+Oldham,Moore,edge
+Oldham,Potter,edge
+Oldham,Randall,corner
+Orange,Hardin,edge
+Orange,Jasper,edge
+Orange,Jefferson,edge
+Orange,Newton,edge
+Palo Pinto,Eastland,edge
+Palo Pinto,Erath,edge
+Palo Pinto,Hood,edge
+Palo Pinto,Jack,edge
+Palo Pinto,Parker,edge
+Palo Pinto,Stephens,edge
+Palo Pinto,Young,edge
+Panola,Harrison,edge
+Panola,Rusk,edge
+Panola,Shelby,edge
+Parker,Hood,edge
+Parker,Jack,edge
+Parker,Johnson,edge
+Parker,Palo Pinto,edge
+Parker,Tarrant,edge
+Parker,Wise,edge
+Parmer,Bailey,edge
+Parmer,Castro,edge
+Parmer,Deaf Smith,edge
+Parmer,Lamb,edge
+Pecos,Brewster,edge
+Pecos,Crane,edge
+Pecos,Crockett,edge
+Pecos,Jeff Davis,edge
+Pecos,Reeves,edge
+Pecos,Terrell,edge
+Pecos,Ward,edge
+Polk,Angelina,edge
+Polk,Hardin,edge
+Polk,Liberty,edge
+Polk,San Jacinto,edge
+Polk,Trinity,edge
+Polk,Tyler,edge
+Potter,Armstrong,corner
+Potter,Carson,edge
+Potter,Deaf Smith,corner
+Potter,Moore,edge
+Potter,Oldham,edge
+Potter,Randall,edge
+Presidio,Brewster,edge
+Presidio,Hudspeth,corner
+Presidio,Jeff Davis,edge
+Rains,Hopkins,edge
+Rains,Hunt,edge
+Rains,Van Zandt,edge
+Rains,Wood,edge
+Randall,Armstrong,edge
+Randall,Carson,corner
+Randall,Castro,edge
+Randall,Deaf Smith,edge
+Randall,Oldham,corner
+Randall,Potter,edge
+Randall,Swisher,edge
+Reagan,Crockett,edge
+Reagan,Glasscock,edge
+Reagan,Irion,edge
+Reagan,Midland,corner
+Reagan,Sterling,edge
+Reagan,Tom Green,edge
+Reagan,Upton,edge
+Real,Bandera,edge
+Real,Edwards,edge
+Real,Kerr,edge
+Real,Uvalde,edge
+Red River,Bowie,edge
+Red River,Delta,edge
+Red River,Franklin,edge
+Red River,Lamar,edge
+Red River,Morris,edge
+Red River,Titus,edge
+Reeves,Culberson,edge
+Reeves,Jeff Davis,edge
+Reeves,Loving,edge
+Reeves,Pecos,edge
+Reeves,Ward,edge
+Refugio,Aransas,edge
+Refugio,Bee,edge
+Refugio,Calhoun,edge
+Refugio,Goliad,edge
+Refugio,San Patricio,edge
+Refugio,Victoria,edge
+Roberts,Carson,edge
+Roberts,Gray,edge
+Roberts,Hansford,corner
+Roberts,Hemphill,edge
+Roberts,Hutchinson,edge
+Roberts,Lipscomb,edge
+Roberts,Ochiltree,edge
+Roberts,Wheeler,corner
+Robertson,Brazos,edge
+Robertson,Burleson,edge
+Robertson,Falls,edge
+Robertson,Leon,edge
+Robertson,Limestone,edge
+Robertson,Madison,corner
+Robertson,Milam,edge
+Rockwall,Collin,edge
+Rockwall,Dallas,edge
+Rockwall,Hunt,edge
+Rockwall,Kaufman,edge
+Runnels,Coke,edge
+Runnels,Coleman,edge
+Runnels,Concho,edge
+Runnels,Nolan,edge
+Runnels,Taylor,edge
+Runnels,Tom Green,edge
+Rusk,Cherokee,edge
+Rusk,Gregg,edge
+Rusk,Harrison,edge
+Rusk,Nacogdoches,edge
+Rusk,Panola,edge
+Rusk,Shelby,edge
+Rusk,Smith,edge
+Sabine,Jasper,edge
+Sabine,Newton,edge
+Sabine,San Augustine,edge
+Sabine,Shelby,edge
+San Augustine,Angelina,edge
+San Augustine,Jasper,edge
+San Augustine,Nacogdoches,edge
+San Augustine,Sabine,edge
+San Augustine,Shelby,edge
+San Jacinto,Liberty,edge
+San Jacinto,Montgomery,edge
+San Jacinto,Polk,edge
+San Jacinto,Trinity,edge
+San Jacinto,Walker,edge
+San Patricio,Aransas,edge
+San Patricio,Bee,edge
+San Patricio,Jim Wells,edge
+San Patricio,Live Oak,edge
+San Patricio,Nueces,edge
+San Patricio,Refugio,edge
+San Saba,Brown,edge
+San Saba,Burnet,edge
+San Saba,Lampasas,edge
+San Saba,Llano,edge
+San Saba,Mason,edge
+San Saba,McCulloch,edge
+San Saba,Mills,edge
+Schleicher,Concho,corner
+Schleicher,Crockett,edge
+Schleicher,Irion,edge
+Schleicher,Kimble,corner
+Schleicher,Menard,edge
+Schleicher,Sutton,edge
+Schleicher,Tom Green,edge
+Scurry,Borden,edge
+Scurry,Fisher,edge
+Scurry,Garza,edge
+Scurry,Kent,edge
+Scurry,Mitchell,edge
+Scurry,Nolan,corner
+Shackelford,Callahan,edge
+Shackelford,Eastland,edge
+Shackelford,Haskell,edge
+Shackelford,Jones,edge
+Shackelford,Stephens,edge
+Shackelford,Throckmorton,edge
+Shelby,Nacogdoches,edge
+Shelby,Panola,edge
+Shelby,Rusk,edge
+Shelby,Sabine,edge
+Shelby,San Augustine,edge
+Sherman,Dallam,edge
+Sherman,Hansford,edge
+Sherman,Hartley,corner
+Sherman,Hutchinson,corner
+Sherman,Moore,edge
+Smith,Cherokee,edge
+Smith,Gregg,edge
+Smith,Henderson,edge
+Smith,Rusk,edge
+Smith,Upshur,edge
+Smith,Van Zandt,edge
+Smith,Wood,edge
+Somervell,Bosque,edge
+Somervell,Erath,edge
+Somervell,Hood,edge
+Somervell,Johnson,edge
+Starr,Brooks,edge
+Starr,Hidalgo,edge
+Starr,Jim Hogg,edge
+Starr,Zapata,edge
+Stephens,Eastland,edge
+Stephens,Palo Pinto,edge
+Stephens,Shackelford,edge
+Stephens,Throckmorton,edge
+Stephens,Young,edge
+Sterling,Coke,edge
+Sterling,Glasscock,edge
+Sterling,Howard,edge
+Sterling,Mitchell,edge
+Sterling,Reagan,edge
+Sterling,Tom Green,edge
+Stonewall,Dickens,corner
+Stonewall,Fisher,edge
+Stonewall,Haskell,edge
+Stonewall,Jones,edge
+Stonewall,Kent,edge
+Stonewall,King,edge
+Stonewall,Knox,corner
+Sutton,Crockett,edge
+Sutton,Edwards,edge
+Sutton,Kimble,edge
+Sutton,Menard,corner
+Sutton,Schleicher,edge
+Sutton,Val Verde,edge
+Swisher,Armstrong,edge
+Swisher,Briscoe,edge
+Swisher,Castro,edge
+Swisher,Floyd,edge
+Swisher,Hale,edge
+Swisher,Randall,edge
+Tarrant,Dallas,edge
+Tarrant,Denton,edge
+Tarrant,Ellis,edge
+Tarrant,Johnson,edge
+Tarrant,Parker,edge
+Tarrant,Wise,edge
+Taylor,Callahan,edge
+Taylor,Coleman,edge
+Taylor,Fisher,corner
+Taylor,Jones,edge
+Taylor,Nolan,edge
+Taylor,Runnels,edge
+Terrell,Brewster,edge
+Terrell,Crockett,edge
+Terrell,Pecos,edge
+Terrell,Val Verde,edge
+Terry,Cochran,corner
+Terry,Dawson,edge
+Terry,Gaines,edge
+Terry,Hockley,edge
+Terry,Lubbock,corner
+Terry,Lynn,edge
+Terry,Yoakum,edge
+Throckmorton,Archer,corner
+Throckmorton,Baylor,edge
+Throckmorton,Haskell,edge
+Throckmorton,Knox,corner
+Throckmorton,Shackelford,edge
+Throckmorton,Stephens,edge
+Throckmorton,Young,edge
+Titus,Camp,edge
+Titus,Franklin,edge
+Titus,Morris,edge
+Titus,Red River,edge
+Tom Green,Coke,edge
+Tom Green,Concho,edge
+Tom Green,Irion,edge
+Tom Green,Menard,corner
+Tom Green,Reagan,edge
+Tom Green,Runnels,edge
+Tom Green,Schleicher,edge
+Tom Green,Sterling,edge
+Travis,Bastrop,edge
+Travis,Blanco,edge
+Travis,Burnet,edge
+Travis,Caldwell,edge
+Travis,Hays,edge
+Travis,Williamson,edge
+Trinity,Angelina,edge
+Trinity,Houston,edge
+Trinity,Polk,edge
+Trinity,San Jacinto,edge
+Trinity,Walker,edge
+Tyler,Angelina,edge
+Tyler,Hardin,edge
+Tyler,Jasper,edge
+Tyler,Polk,edge
+Upshur,Camp,edge
+Upshur,Gregg,edge
+Upshur,Harrison,edge
+Upshur,Marion,edge
+Upshur,Morris,edge
+Upshur,Smith,edge
+Upshur,Wood,edge
+Upton,Crane,edge
+Upton,Crockett,edge
+Upton,Ector,edge
+Upton,Glasscock,corner
+Upton,Midland,edge
+Upton,Reagan,edge
+Uvalde,Bandera,edge
+Uvalde,Edwards,edge
+Uvalde,Frio,corner
+Uvalde,Kinney,edge
+Uvalde,Maverick,corner
+Uvalde,Medina,edge
+Uvalde,Real,edge
+Uvalde,Zavala,edge
+Val Verde,Crockett,edge
+Val Verde,Edwards,edge
+Val Verde,Kinney,edge
+Val Verde,Sutton,edge
+Val Verde,Terrell,edge
+Van Zandt,Henderson,edge
+Van Zandt,Hunt,edge
+Van Zandt,Kaufman,edge
+Van Zandt,Rains,edge
+Van Zandt,Smith,edge
+Van Zandt,Wood,edge
+Victoria,Calhoun,edge
+Victoria,DeWitt,edge
+Victoria,Goliad,edge
+Victoria,Jackson,edge
+Victoria,Lavaca,edge
+Victoria,Refugio,edge
+Walker,Grimes,edge
+Walker,Houston,edge
+Walker,Madison,edge
+Walker,Montgomery,edge
+Walker,San Jacinto,edge
+Walker,Trinity,edge
+Waller,Austin,edge
+Waller,Fort Bend,edge
+Waller,Grimes,edge
+Waller,Harris,edge
+Waller,Montgomery,edge
+Waller,Washington,edge
+Ward,Crane,edge
+Ward,Ector,edge
+Ward,Loving,edge
+Ward,Pecos,edge
+Ward,Reeves,edge
+Ward,Winkler,edge
+Washington,Austin,edge
+Washington,Brazos,edge
+Washington,Burleson,edge
+Washington,Fayette,edge
+Washington,Grimes,edge
+Washington,Lee,edge
+Washington,Waller,edge
+Webb,Dimmit,edge
+Webb,Duval,edge
+Webb,Jim Hogg,edge
+Webb,La Salle,edge
+Webb,Maverick,edge
+Webb,McMullen,corner
+Webb,Zapata,edge
+Wharton,Austin,edge
+Wharton,Brazoria,edge
+Wharton,Colorado,edge
+Wharton,Fort Bend,edge
+Wharton,Jackson,edge
+Wharton,Matagorda,edge
+Wheeler,Collingsworth,edge
+Wheeler,Donley,corner
+Wheeler,Gray,edge
+Wheeler,Hemphill,edge
+Wheeler,Roberts,corner
+Wichita,Archer,edge
+Wichita,Baylor,corner
+Wichita,Clay,edge
+Wichita,Wilbarger,edge
+Wilbarger,Archer,corner
+Wilbarger,Baylor,edge
+Wilbarger,Foard,edge
+Wilbarger,Hardeman,edge
+Wilbarger,Wichita,edge
+Willacy,Cameron,edge
+Willacy,Hidalgo,edge
+Willacy,Kenedy,edge
+Williamson,Bastrop,edge
+Williamson,Bell,edge
+Williamson,Burnet,edge
+Williamson,Lee,edge
+Williamson,Milam,edge
+Williamson,Travis,edge
+Wilson,Atascosa,edge
+Wilson,Bexar,edge
+Wilson,Gonzales,edge
+Wilson,Guadalupe,edge
+Wilson,Karnes,edge
+Winkler,Andrews,edge
+Winkler,Ector,edge
+Winkler,Loving,edge
+Winkler,Ward,edge
+Wise,Cooke,edge
+Wise,Denton,edge
+Wise,Jack,edge
+Wise,Montague,edge
+Wise,Parker,edge
+Wise,Tarrant,edge
+Wood,Camp,edge
+Wood,Franklin,edge
+Wood,Hopkins,edge
+Wood,Rains,edge
+Wood,Smith,edge
+Wood,Upshur,edge
+Wood,Van Zandt,edge
+Yoakum,Cochran,edge
+Yoakum,Gaines,edge
+Yoakum,Hockley,corner
+Yoakum,Terry,edge
+Young,Archer,edge
+Young,Baylor,corner
+Young,Jack,edge
+Young,Palo Pinto,edge
+Young,Stephens,edge
+Young,Throckmorton,edge
+Zapata,Jim Hogg,edge
+Zapata,Starr,edge
+Zapata,Webb,edge
+Zavala,Dimmit,edge
+Zavala,Frio,edge
+Zavala,Kinney,corner
+Zavala,Maverick,edge
+Zavala,Medina,corner
+Zavala,Uvalde,edge
