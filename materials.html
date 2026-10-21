@@ -1,5 +1,5 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Open materials | Responsible GeoAI for Civic Futures</title><link rel="stylesheet" href="assets/style.css"></head><body>
+<title>Open materials | Responsible GeoAI for Civic Futures</title><link rel="stylesheet" href="assets/style.css?v=20261021c"></head><body>
 <header><div class="wrap top"><a class="brand" href="index.html">Responsible GeoAI for Civic Futures<small>The University of Texas at Austin &middot; supported by the Mozilla Foundation</small></a><nav><a href="index.html">Home</a><a href="course.html">Course</a><a href="materials.html" class=on>Open materials</a><a href="demo-day.html">Demo Day</a><a href="fellows.html">Fellows</a><a href="about.html">About &amp; licence</a></nav></div></header>
 <main><div class="wrap">
 <h1>Open teaching materials</h1>
@@ -9,18 +9,19 @@
 <h2>Lab 3: Geocoding and web scraping</h2>
 <p>Students send web requests, geocode addresses, collect Street View images and scrape rental listings, then ask what the scraped data leaves out: which housing, which neighbourhoods and which renters never appear.</p>
 <p><b>You will need</b> your own Google Maps Platform API key (Geocoding API and Street View Static API). The rental-listing pages used in class are not redistributed, because they belong to the listing site; the notebook scrapes the live pages.</p>
+<figure><img src="assets/img/lab03_pipeline.jpg?v=20261021c" alt="Four steps of Lab 3: request a page, geocode an address, fetch a Street View photo, scrape rental listings; then ask who never appears in the table"><figcaption>The four steps of Lab 3, and the question students answer at the end.</figcaption></figure>
 <a class="btn" href="https://github.com/GISense/responsible-geoai/tree/main/labs/lab03">Lab 3 on GitHub</a>
 
 <h2>Lab 8: Network analysis and access to maternal care</h2>
 <p>Street-network centrality with OSMnx, then the two-step floating catchment area (2SFCA) method to measure access to obstetric beds across Texas's 254 counties, and three measures of how unequal that access is: the Index of Dissimilarity, the Gini coefficient and the Atkinson index. The travel-time threshold is the students' choice, and the lab asks how much that choice changes who looks under-served.</p>
 <p><b>Data:</b> county totals of births and obstetric beds, aggregated from a Texas maternal-health dataset provided by Ji Sun Lee (individual records are not shared); county-to-county drive times from OpenStreetMap via OSRM; Census county boundaries.</p>
-<figure><img src="assets/img/lab08_access.jpg" alt="Map of Texas counties highlighting those with no obstetric beds within a 60-minute drive"><figcaption>The worked example in Lab 8: counties with no obstetric beds within a 60-minute drive. Students then pick their own thresholds and compare.</figcaption></figure>
+<figure><img src="assets/img/lab08_no_obstetric_beds_60min.jpg?v=20261021c" alt="Map of Texas counties highlighting those with no obstetric beds within a 60-minute drive"><figcaption>The worked example in Lab 8: counties with no obstetric beds within a 60-minute drive. Students then pick their own thresholds and compare.</figcaption></figure>
 <a class="btn" href="https://github.com/GISense/responsible-geoai/tree/main/labs/lab08">Lab 8 on GitHub</a>
 
 <h2>Lab 10: Generative AI in geography and cartography</h2>
 <p><b>Part A</b> follows CartoAgent: a multimodal model turns a picture into a web-map style, then judges its own map. <b>Part B</b> asks two models which Texas counties border each county and scores every answer against official Census adjacency data, to test whether the models know small, rural counties as well as large ones, and whether a better prompt helps beyond ordinary run-to-run variation.</p>
 <p><b>You will need</b> an OpenAI API key. A full run costs about $1.20. A free Mapbox account is used for Part A.</p>
-<figure><img src="assets/img/lab10_maps.jpg" alt="Four versions of the same campus map, each styled by a model after a different painting"><figcaption>Part A: the same map of the UT Austin campus, styled by a model after four different paintings. Map data &copy; Mapbox, &copy; OpenStreetMap contributors.</figcaption></figure>
+<figure><img src="assets/img/lab10_four_styles.jpg?v=20261021c" alt="Four versions of the same campus map, each styled by a model after a different painting"><figcaption>Part A: the same map of the UT Austin campus, styled by a model after four different paintings. Map data &copy; Mapbox, &copy; OpenStreetMap contributors.</figcaption></figure>
 <a class="btn" href="https://github.com/GISense/responsible-geoai/tree/main/labs/lab10">Lab 10 on GitHub</a>
 </div></main>
 <footer><div class="wrap">GISense Lab, Department of Geography and the Environment, The University of Texas at Austin. Teaching materials are open under <a href="about.html">Creative Commons licences</a>. Source: <a href="https://github.com/GISense/responsible-geoai">GitHub</a>.</div></footer></body></html>
