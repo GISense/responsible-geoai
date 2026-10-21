@@ -15,7 +15,8 @@ h1{font-size:34px;line-height:1.2;margin:0 0 12px}
 h2{font-size:23px;margin:36px 0 10px}
 h3{font-size:18px;margin:0 0 6px}
 .lead{font-size:20px;color:var(--muted);max-width:760px}
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px;margin-top:16px}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:16px}
+@media (max-width:640px){.grid{grid-template-columns:1fr}}
 .card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:18px}
 .card p{margin:6px 0 0;color:var(--muted);font-size:15.5px}
 .facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px;margin:18px 0}
@@ -30,8 +31,10 @@ footer{border-top:1px solid var(--line);color:var(--muted);font-size:14px;paddin
 figure{margin:18px 0}
 figure img{width:100%;height:auto;border-radius:10px;border:1px solid var(--line);display:block}
 figcaption{color:var(--muted);font-size:14px;margin-top:6px}
-.hero{display:grid;grid-template-columns:1.1fr 1fr;gap:28px;align-items:center}
-@media (max-width:760px){.hero{grid-template-columns:1fr}}
 .q{border-left:4px solid var(--accent);padding:2px 0 2px 14px;margin:18px 0}
 .q b{display:block;font-size:18px}
 .q span{color:var(--muted);font-size:15.5px}
+
+.hero figure{margin:28px 0 0}
+h1,h2,h3,p,li,figure,table,.note,.q,.card,.facts{max-width:100%}
+img{max-width:100%}
