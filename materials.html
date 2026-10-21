@@ -1,5 +1,5 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Open materials | Responsible GeoAI for Civic Futures</title><link rel="stylesheet" href="assets/style.css?v=20261021d"></head><body>
+<title>Open materials | Responsible GeoAI for Civic Futures</title><link rel="stylesheet" href="assets/style.css?v=20261021e"></head><body>
 <header><div class="wrap top"><a class="brand" href="index.html">Responsible GeoAI for Civic Futures<small>The University of Texas at Austin &middot; supported by the Mozilla Foundation</small></a><nav><a href="index.html">Home</a><a href="course.html">Course</a><a href="materials.html" class=on>Open materials</a><a href="demo-day.html">Demo Day</a><a href="fellows.html">Fellows</a><a href="about.html">About &amp; licence</a></nav></div></header>
 <main><div class="wrap">
 <h1>Open teaching materials</h1>
@@ -9,19 +9,19 @@
 <h2>Lab 3: Geocoding and web scraping</h2>
 <p>Students send web requests, geocode addresses, collect Street View images and scrape rental listings, then ask what the scraped data leaves out: which housing, which neighbourhoods and which renters never appear.</p>
 <p><b>You will need</b> your own Google Maps Platform API key (Geocoding API and Street View Static API). The rental-listing pages used in class are not redistributed, because they belong to the listing site; the notebook scrapes the live pages.</p>
-<figure><img src="assets/img/lab03_listings_map.jpg?v=20261021d" alt="Map of the UT Austin campus area with ten scraped rental listings: six show a monthly rent, four show no price"><figcaption>A result from Lab 3: the ten listings one scrape returned for ZIP 78705, geocoded and mapped. Four of them show no price, and all ten sit within a few blocks of campus. The written questions ask what this table leaves out, and who would be misled by it.</figcaption></figure>
+<figure><img src="assets/img/lab03_listings_map.jpg?v=20261021e" alt="Map of the UT Austin campus area with ten scraped rental listings: six show a monthly rent, four show no price"><figcaption>A result from Lab 3: the ten listings one scrape returned for ZIP 78705, geocoded and mapped. Four of them show no price, and all ten sit within a few blocks of campus. The written questions ask what this table leaves out, and who would be misled by it.</figcaption></figure>
 <a class="btn" href="https://github.com/GISense/responsible-geoai/tree/main/labs/lab03">Lab 3 on GitHub</a>
 
 <h2>Lab 8: Network analysis and access to maternal care</h2>
 <p>Street-network centrality with OSMnx, then the two-step floating catchment area (2SFCA) method to measure access to obstetric beds across Texas's 254 counties, and three measures of how unequal that access is: the Index of Dissimilarity, the Gini coefficient and the Atkinson index. The travel-time threshold is the students' choice, and the lab asks how much that choice changes who looks under-served.</p>
 <p><b>Data:</b> county totals of births and obstetric beds, aggregated from a Texas maternal-health dataset provided by Ji Sun Lee (individual records are not shared); county-to-county drive times from OpenStreetMap via OSRM; Census county boundaries.</p>
-<figure><img src="assets/img/lab08_no_obstetric_beds_60min.jpg?v=20261021d" alt="Map of Texas counties highlighting those with no obstetric beds within a 60-minute drive"><figcaption>The worked example in Lab 8: counties with no obstetric beds within a 60-minute drive. Students then pick their own thresholds and compare.</figcaption></figure>
+<figure><img src="assets/img/lab08_no_obstetric_beds_60min.jpg?v=20261021e" alt="Map of Texas counties highlighting those with no obstetric beds within a 60-minute drive"><figcaption>The worked example in Lab 8: counties with no obstetric beds within a 60-minute drive. Students then pick their own thresholds and compare.</figcaption></figure>
 <a class="btn" href="https://github.com/GISense/responsible-geoai/tree/main/labs/lab08">Lab 8 on GitHub</a>
 
 <h2>Lab 10: Generative AI in geography and cartography</h2>
 <p><b>Part A</b> follows CartoAgent: a multimodal model turns a picture into a web-map style, then judges its own map. <b>Part B</b> asks two models which Texas counties border each county and scores every answer against official Census adjacency data, to test whether the models know small, rural counties as well as large ones, and whether a better prompt helps beyond ordinary run-to-run variation.</p>
 <p><b>You will need</b> an OpenAI API key. A full run costs about $1.20. A free Mapbox account is used for Part A.</p>
-<figure><img src="assets/img/lab10_four_styles.jpg?v=20261021d" alt="Four versions of the same campus map, each styled by a model after a different painting"><figcaption>Part A: the same map of the UT Austin campus, styled by a model after four different paintings. Map data &copy; Mapbox, &copy; OpenStreetMap contributors.</figcaption></figure>
+<figure><img src="assets/img/lab10_neighbor_test.jpg?v=20261021e" alt="Two maps of Texas counties colored by how accurately each language model named the county's neighbors: a 2024 model and a 2025 model"><figcaption>A result from Lab 10, Part B: each county is colored by how well a model named its neighboring counties, checked against Census adjacency data. Left, a 2024 model; right, a 2025 model. Students run this themselves and read where each model goes wrong, and whether a newer model closes the gap between small and large counties.</figcaption></figure>
 <a class="btn" href="https://github.com/GISense/responsible-geoai/tree/main/labs/lab10">Lab 10 on GitHub</a>
 </div></main>
 <footer><div class="wrap">GISense Lab, Department of Geography and the Environment, The University of Texas at Austin. Teaching materials are open under <a href="about.html">Creative Commons licences</a>. Source: <a href="https://github.com/GISense/responsible-geoai">GitHub</a>.</div></footer></body></html>
